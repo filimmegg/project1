@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Rock, Paper, Scissors game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build script necessary'",
+    "start": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filimmegg/project1.git"
+  },
+  "author": "Magda Filim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filimmegg/project1/issues"
+  },
+  "homepage": "https://github.com/filimmegg/project1#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
